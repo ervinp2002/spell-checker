@@ -19,7 +19,7 @@ and HashTable class.
 ## Command Line Syntax
     ./a.out [textfile] 
  
-NOTE: The dictionary file and textfile must be in the same directory as the executable.
+NOTE: The dictionary file (named as dict.txt) and textfile must be in the same directory as the executable.
 
 ## Features
 The program will parse each word in the text file as lowercase. When the program 
